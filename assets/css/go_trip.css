@@ -1,0 +1,123 @@
+header{
+    width: 1366px;
+    height: 80px;
+    background-color: grey;
+    margin-top: -8px;
+    margin-left: -8px;
+}
+
+#navbar .go_trip{
+    width: 130px;
+    height: 61px;
+    background-image: url(../images/logogotrip.png);
+    margin-left: 100px;
+    padding-top: 10px;
+}
+
+#navbar .go_trip img {
+    max-width: 100%;
+    height: auto;
+}
+#navbar .links ul{
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+    margin-top: -36px;
+    margin-left: 500px;
+    padding-bottom: 60px;
+}
+#navbar .links ul li{
+    display: inline-block;
+}
+#navbar .links ul li a{
+    text-decoration: none;
+    font-size: 20px;
+    margin: 18px;
+}
+#heading_texts h2{
+    font-size: 18px;
+    color: orange;
+    text-align: center;
+}
+#heading_texts h1{
+    font-size: 46px;
+    text-align: center;
+}
+
+#places .chernobyl{
+    margin-left: 150px;
+    width: 300px;
+    height: 450px;
+    display: inline-block;
+    
+}
+#places .chernobyl img{
+    max-width: 100%;
+    height: 300px;
+
+}
+#places .chernobyl h5{
+    text-align:center;
+    color: grey;
+}
+#places .chernobyl h3{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#places .chernobyl h4{
+    color: orange;
+    margin-left:28px;
+}
+#places .chernobyl a{
+    display: inline-block;
+}
+
+#places .nagazaki{
+    margin-left: 70px;
+    margin-bottom: -300px;
+    width: 300px;
+    height: 450px;
+    display: inline-block;
+    position: absolute  ;
+}
+#places .nagazaki img{
+    max-width: 100%;
+    height: 300px;
+
+}
+#places .nagazaki h5{
+    margin-left: 28px;
+    color: grey;
+}
+#places .nagazaki h3{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#places .nagazaki h4{
+    color: orange;
+    margin-left:28px;
+}
+#places .hiroshima{
+    width: 300px;
+    height: 450px;
+    display: inline-block;
+    position: absolute;
+    margin-left: 440px;
+}
+#places .hiroshima img{
+    max-width: 100%;
+    height: 300px;
+
+}
+#places .hiroshima h5{
+    margin-left: 28px;
+    color: grey;
+}
+#places .hiroshima h3{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#places .hiroshima h4{
+    color: orange;
+    margin-left:28px;
+}

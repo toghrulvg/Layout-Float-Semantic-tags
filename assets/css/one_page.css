@@ -1,0 +1,124 @@
+body{
+    background-color: aqua;
+}
+#navbar .buttons{
+
+    width: 100% ;
+    height: 100px;
+}
+
+#navbar .buttons .home{
+    display: inline-block;
+    margin-top: 14px;
+    margin-left: 16px;
+    width: 195px;
+    height: 65px;
+    background-color: yellow;
+    border: 5px solid blue;
+    text-align: center;
+    font-size: 26px;
+}
+#navbar .buttons .about{
+    display: inline-block;
+    margin-top: 14px;
+    margin-left: 16px;
+    width: 195px;
+    height: 65px;
+    background-color: yellow;
+    border: 5px solid blue;
+    text-align: center;
+    font-size: 26px;
+}
+#navbar .buttons .product{
+    display: inline-block;
+    margin-top: 14px;
+    margin-left: 16px;
+    width: 195px;
+    height: 65px;
+    background-color: yellow;
+    border: 5px solid blue;
+    text-align: center;
+    font-size: 26px;
+}
+#navbar .buttons .services{
+    display: inline-block;
+    margin-top: 14px;
+    margin-left: 16px;
+    width: 195px;
+    height: 65px;
+    background-color: yellow;
+    border: 5px solid blue;
+    text-align: center;
+    font-size: 26px;
+}
+#navbar .buttons .maps{
+    display: inline-block;
+    margin-top: 14px;
+    margin-left: 16px;
+    width: 195px;
+    height: 65px;
+    background-color: yellow;
+    border: 5px solid blue;
+    text-align: center;
+    font-size: 26px;
+}
+#navbar .buttons .contact{
+    display: inline-block;
+    margin-top: 14px;
+    margin-left: 16px;
+    width: 195px;
+    height: 65px;
+    background-color: yellow;
+    border: 5px solid blue;
+    text-align: center;
+    font-size: 26px;
+}
+#service_areas{
+    width: 100%;
+    height: 500px;
+    border: 1px solid black;
+}
+
+#service_areas .navigation{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: inline-block;
+    width: 440px;
+    height: 500px;
+    background-color:grey;
+    text-align: center;
+    font-size: 30px;
+    float: left;
+}
+#service_areas .navigation span{
+    color: aqua;
+}
+#service_areas .information{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: inline-block;
+    width: 459px;
+    height: 500px;
+    background-color: yellow;
+    text-align: center;
+    font-size: 30px;
+    
+}
+#service_areas .information span{
+    color: blue;
+}
+#service_areas .customer{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: inline-block;
+    width: 451px;
+    height: 500px;
+    background-color: blue;
+    text-align: center;
+    font-size: 30px;
+    position: absolute;
+}
+#service_areas .customer span{
+    color: yellow;
+}
+footer span{
+    color: orange;
+    margin-left: 34%;
+}
